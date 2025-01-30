@@ -1,5 +1,4 @@
 import useTime from "../hooks/TimeHook";
-import "../styles/home.css";
 
 export default function HomePage() {
   const { getTimeOfDay } = useTime();
@@ -8,8 +7,7 @@ export default function HomePage() {
     "Gratitude",
     "Short story",
     "Self reflection",
-    "Poetry",
-    "Philisophical nonsense",
+    "Philosophical nonsense",
   ];
 
   const getGreeting = (): string => {

@@ -7,5 +7,4 @@ contextBridge.exposeInMainWorld("electron", {
     ipcRenderer.invoke("set-category-index", category, index),
   getCategoryIndex: (category: string) =>
     ipcRenderer.invoke("get-category-index", category),
-  ipcRenderer: ipcRenderer,
 });

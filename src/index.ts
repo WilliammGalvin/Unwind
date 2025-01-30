@@ -27,7 +27,7 @@ const createWindow = (): void => {
     resizable: false,
     webPreferences: {
       preload: MAIN_WINDOW_PRELOAD_WEBPACK_ENTRY,
-      devTools: true,
+      devTools: false,
       nodeIntegration: true,
     },
   });
