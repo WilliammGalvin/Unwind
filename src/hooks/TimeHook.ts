@@ -1,10 +1,10 @@
-export enum TimeOfDay {
+enum TimeOfDay {
   MORNING = "morning",
   AFTERNOON = "afternoon",
   EVENING = "evening",
 }
 
-export default function useTime() {
+function useTime() {
   const getTimeOfDay = (): TimeOfDay => {
     const currentTime = new Date().getHours();
 
@@ -15,3 +15,6 @@ export default function useTime() {
 
   return { getTimeOfDay };
 }
+
+export default useTime;
+export { TimeOfDay };
