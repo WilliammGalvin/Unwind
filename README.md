@@ -1,6 +1,6 @@
 # Unwind
 ## Overview
-Unwind is a desktop app built with ElectronJS, React, and Tailwind CSS. I built this app as a way to unwind after a long day and write. The app will give you a writing prompt chosen one of the various categories each filled with different and unique prompts.
+Unwind is a desktop app built with ElectronJS, React, and Tailwind CSS. I built this app as a way to unwind after a long day and write. The app will give you a writing prompt chosen from one of the various categories each filled with different and unique prompts.
 
 ## Key Features
 - Unique and Creative Prompts: Different styles and vibes to explore
