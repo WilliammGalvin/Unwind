@@ -1,47 +1,11 @@
-# 🚀 Electron React TypeScript Tailwind Starter
+# Unwind
+## Overview
+Unwind is a desktop app built with ElectronJS, React, and Tailwind CSS. I built this app as a way to unwind after a long day and write. The app will give you a writing prompt chosen one of the various categories each filled with different and unique prompts.
 
-This starter repository provides a ready-to-use project template for building cross-platform desktop applications with Electron, React, TypeScript, and Tailwind CSS, utilizing Electron Forge for easy packaging and publishing.
+## Key Features
+- Unique and Creative Prompts: Different styles and vibes to explore
+- Encouraging and Fun: Continue to write happily with the various motivating quotes and encouragement
 
-## Features
-- Electron for building cross-platform desktop applications
-- React for creating scalable, component-based UIs
-- TypeScript for strongly-typed and maintainable JavaScript code
-- Tailwind CSS for utility-first styling and rapid UI development
-- Electron Forge for simple packaging and publishing of Electron applications
+![image](https://github.com/user-attachments/assets/d41a6da8-cba9-4840-bc8d-217a5171707a)
 
-
-## Getting Started
-Clone the repository:
-```bash
-git clone https://github.com/rostislavjadavan/electron-react-typescript-tailwind-starter.git
-```
-
-Navigate to the project folder:
-```bash
-cd electron-react-typescript-tailwind-starter
-```
-
-Install dependencies:
-```bash
-npm install
-```
-
-Start the development server:
-```bash
-npm run start
-```
-
-# Package the project
-
-Package the project as an Electron app:
-
-```bash
-npm run make
-```
-
-For detailed configuration visit: https://www.electronforge.io
-
-## Customization
-
-You can easily customize the project to suit your needs by modifying the source code within the `src` directory. The project is set up with a simple example that you can use as a starting point for your application.
-
+![image](https://github.com/user-attachments/assets/596d9901-893e-4fc2-a15f-ca543fd944a5)
